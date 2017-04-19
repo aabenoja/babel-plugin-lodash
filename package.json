@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-lodash-legacy",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Lodash modularized builds without the hassle (for babel5)",
   "repository": "megawac/babel-plugin-lodash",
   "author": "Graeme Yeates (github.com/megawac) <megawac@gmail.com>",
